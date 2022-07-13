@@ -1,0 +1,11 @@
+
+
+Utilizando a coleção populada no exercício anterior, você deverá fazer consultas para responder as seguintes perguntas:
+
+    Quais os jogadores que moram em Oregon?
+    Quais jogadores moram nos EUA E pesam mais que 200?
+    Quais jogadores atuam em posição "Center" OU "Guard"?
+    Lista de todos os times com seus respectivos estados ( apenas uma linha por time )
+
+
+Todas as queries deverão ser montadas utilizando PyMongo e MongoEngine ( responder das 2 maneiras ), portanto será necessário criar as classes para fazer a modelagem adequada dos dados.
