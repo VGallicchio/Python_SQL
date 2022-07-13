@@ -1,0 +1,14 @@
+Cada linha contém a informação de salário do jogador em uma determinada temporada, então é possivel que existam várias linhas para o mesmo jogador.
+
+Você deverá modelar um banco de dados de forma que essas informações sejam guardadas de forma mais concisa. Ex: Faz sentido eu ter uma tabela com os salários dos jogadores e uma tabela com as informações do jogador em si? Faz sentido criar uma tabela com todos os times?
+
+
+Após fazer a modelagem do banco, você deverá popular ele com as informações.
+
+Uma dica para facilitar o processo é criar uma tabela RAW que tenha as informações exatamente igual ao CSV e então fazer o insert nela. Após isso criar outra tabelas e inserir os dados nela utilizando o comando SELECT INSERT. Para popular a tabela RAW utilizar um script python para ler o arquivo. Caso não tenha conhecimento em python estudar a trilha, ou então fazer em uma linguagem de sua preferência.
+
+
+Após popular as tabelas você deverá responder as seguintes perguntas:
+
+    Qual posição mais paga por estado?
+    Média, mínimo e máximo salário por altura?
