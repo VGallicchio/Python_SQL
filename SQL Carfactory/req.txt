@@ -1,0 +1,25 @@
+
+
+Imagine que você está desenvolvendo um ERP para uma grande de montadora de carros. Você deverá elaborar o modelo relacional e criar as tabelas no banco de dados.
+
+A entidade carro possui os seguintes atributos:
+
+    Nome do modelo
+    Ano do modelo
+
+Cada carro possui uma série de componentes que necessita para ser fabricado. Além disso, para o mesmo modelo de um carro, existe o "pacote" (ex: Comfortline, Highline...) que também afeta os componentes que deverão ser utilizados na montagem do carro.
+Cada componente possui um ou vários fornecedores, e, além disso, cada componente pode ser composto por diversos outros components (ex: a central multimídia é composta pela tela LCD, processador...)
+Quando a concessionária faz uma encomenda de carros, existem duas possibilidades:
+
+    A montadora tem em quantidade suficiente para atender o pedido, nesse caso o pedido é enviado a concessionária imediatamente
+    A montadora não tem quantidade suficiente de veículos, nesse caso deve se fabricar os veículos de acordo com as especificações do pedido e então fazer o envio
+
+
+Após elaborar o modelo, você deverá fazer a inserção de dados de forma que possamos extrair resultados interessantes no próximo passo.
+
+
+Agora você deverá responder as seguintes perguntas:
+
+    Qual a lista de todos os componentes utilizados para cada um dos pacotes de todos os carros?
+    Para um pacote específico, qual a lista de todos os componentes e sub-componentes cadastrados?
+
