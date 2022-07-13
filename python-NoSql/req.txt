@@ -1,0 +1,8 @@
+
+
+Em anexo há um arquivo com diversas informações de jogadores.
+
+Cada linha contém a informação de salário do jogador em uma determinada temporada, então é possivel que existam várias linhas para o mesmo jogador.
+
+
+Você deverá popular uma coleção no MongoDB de forma que cada objeto contenha a informação completa de cada jogador.
