@@ -1,0 +1,212 @@
+[
+    {
+        "_id": {
+            "TID": "1610612745",
+            "Team": "Houston",
+            "State": "Texas"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612748",
+            "Team": "Miami",
+            "State": "Florida"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612762",
+            "Team": "Utah",
+            "State": "Utah"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612737",
+            "Team": "Atlanta",
+            "State": "Atlanta"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612740",
+            "Team": "New Orleans",
+            "State": "Louisiana"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612756",
+            "Team": "Phoenix",
+            "State": "Arizona"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612766",
+            "Team": "Charlotte",
+            "State": "North Carolina"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612753",
+            "Team": "Orlando",
+            "State": "Florida"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612758",
+            "Team": "Sacramento",
+            "State": "California"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612746",
+            "Team": "Los Angeles",
+            "State": "California"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612749",
+            "Team": "Milwaukee",
+            "State": "Wisconsin"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612738",
+            "Team": "Boston",
+            "State": "Massachusetts"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612754",
+            "Team": "Indiana",
+            "State": "Indiana"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612747",
+            "Team": "Los Angeles",
+            "State": "California"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612739",
+            "Team": "Cleveland",
+            "State": "Ohio"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612752",
+            "Team": "New York",
+            "State": "New York"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612760",
+            "Team": "Oklahoma City",
+            "State": "Oklahoma"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612759",
+            "Team": "San Antonio",
+            "State": "Texas"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612757",
+            "Team": "Portland",
+            "State": "Oregon"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612743",
+            "Team": "Denver",
+            "State": "Colorado"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612763",
+            "Team": "Memphis",
+            "State": "Tennessee"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612751",
+            "Team": "Brooklyn",
+            "State": "New York"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612742",
+            "Team": "Dallas",
+            "State": "Texas"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612761",
+            "Team": "Toronto",
+            "State": "Ontario"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612744",
+            "Team": "Golden State",
+            "State": "California"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612765",
+            "Team": "Detroit",
+            "State": "Michigan"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612755",
+            "Team": "Philadelphia",
+            "State": "Pennsylvania"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612741",
+            "Team": "Chicago",
+            "State": "Illinois"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612764",
+            "Team": "Washington",
+            "State": "District of Columbia"
+        }
+    },
+    {
+        "_id": {
+            "TID": "1610612750",
+            "Team": "Minnesota",
+            "State": "Minnesota"
+        }
+    }
+]

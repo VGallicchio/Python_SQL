@@ -1,0 +1,2697 @@
+[
+    {
+        "_id": "76001",
+        "ROW": "1",
+        "ACTIVE": "0",
+        "NAME": "Alaa Abdelnaby",
+        "COUNTRY": "USA",
+        "HEIGHT": "82",
+        "WEIGHT": "240",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76015",
+        "ROW": "27",
+        "ACTIVE": "0",
+        "NAME": "Rick Adelman",
+        "COUNTRY": "USA",
+        "HEIGHT": "74",
+        "WEIGHT": "175",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "1626146",
+        "ROW": "43",
+        "ACTIVE": "0",
+        "NAME": "Cliff Alexander",
+        "COUNTRY": "USA",
+        "HEIGHT": "80",
+        "WEIGHT": "240",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76036",
+        "ROW": "76",
+        "ACTIVE": "0",
+        "NAME": "Daniel Anderson",
+        "COUNTRY": "USA",
+        "HEIGHT": "74",
+        "WEIGHT": "185",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "1507",
+        "ROW": "77",
+        "ACTIVE": "0",
+        "NAME": "Derek Anderson",
+        "COUNTRY": "USA",
+        "HEIGHT": "77",
+        "WEIGHT": "195",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76041",
+        "ROW": "84",
+        "ACTIVE": "0",
+        "NAME": "Kim Anderson",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "200",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76045",
+        "ROW": "90",
+        "ACTIVE": "0",
+        "NAME": "Richard Anderson",
+        "COUNTRY": "USA",
+        "HEIGHT": "82",
+        "WEIGHT": "240",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "2546",
+        "ROW": "107",
+        "ACTIVE": "1",
+        "NAME": "Carmelo Anthony",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "238",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": "2020-21"
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": "1620564"
+            }
+        ]
+    },
+    {
+        "_id": "76084",
+        "ROW": "172",
+        "ACTIVE": "0",
+        "NAME": "Carl Bailey",
+        "COUNTRY": "USA",
+        "HEIGHT": "84",
+        "WEIGHT": "210",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "2057",
+        "ROW": "196",
+        "ACTIVE": "0",
+        "NAME": "Erick Barkley",
+        "COUNTRY": "USA",
+        "HEIGHT": "73",
+        "WEIGHT": "185",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76121",
+        "ROW": "228",
+        "ACTIVE": "0",
+        "NAME": "Billyray Bates",
+        "COUNTRY": "USA",
+        "HEIGHT": "76",
+        "WEIGHT": "210",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76167",
+        "ROW": "310",
+        "ACTIVE": "0",
+        "NAME": "Joe Binion",
+        "COUNTRY": "USA",
+        "HEIGHT": "80",
+        "WEIGHT": "235",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "2581",
+        "ROW": "333",
+        "ACTIVE": "0",
+        "NAME": "Steve Blake",
+        "COUNTRY": "USA",
+        "HEIGHT": "75",
+        "WEIGHT": "172",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "2257",
+        "ROW": "396",
+        "ACTIVE": "0",
+        "NAME": "Ruben Boumtje-Boumtje",
+        "COUNTRY": "USA",
+        "HEIGHT": "84",
+        "WEIGHT": "257",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76237",
+        "ROW": "427",
+        "ACTIVE": "0",
+        "NAME": "Adrian Branch",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "185",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76249",
+        "ROW": "444",
+        "ACTIVE": "0",
+        "NAME": "Ron Brewer",
+        "COUNTRY": "USA",
+        "HEIGHT": "76",
+        "WEIGHT": "180",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "1594",
+        "ROW": "517",
+        "ACTIVE": "0",
+        "NAME": "Rick Brunson",
+        "COUNTRY": "USA",
+        "HEIGHT": "76",
+        "WEIGHT": "190",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "95",
+        "ROW": "521",
+        "ACTIVE": "0",
+        "NAME": "Mark Bryant",
+        "COUNTRY": "USA",
+        "HEIGHT": "81",
+        "WEIGHT": "250",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76350",
+        "ROW": "613",
+        "ACTIVE": "0",
+        "NAME": "Kenny Carr",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "220",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "1628380",
+        "ROW": "728",
+        "ACTIVE": "1",
+        "NAME": "Zach Collins",
+        "COUNTRY": "USA",
+        "HEIGHT": "83",
+        "WEIGHT": "250",
+        "POSITION": "Forward-Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": "2021-22"
+            },
+            {
+                "PLAYER_SEASON": "2020-21"
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": "7363319"
+            },
+            {
+                "PLAYER_SALARY": "5406255"
+            }
+        ]
+    },
+    {
+        "_id": "2241",
+        "ROW": "754",
+        "ACTIVE": "0",
+        "NAME": "Omar Cook",
+        "COUNTRY": "USA",
+        "HEIGHT": "73",
+        "WEIGHT": "190",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "203496",
+        "ROW": "782",
+        "ACTIVE": "1",
+        "NAME": "Robert Covington",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "209",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": "2021-22"
+            },
+            {
+                "PLAYER_SEASON": "2020-21"
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": "12975471"
+            },
+            {
+                "PLAYER_SALARY": "12138345"
+            }
+        ]
+    },
+    {
+        "_id": "76533",
+        "ROW": "858",
+        "ACTIVE": "0",
+        "NAME": "Bob Davis",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "215",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76519",
+        "ROW": "862",
+        "ACTIVE": "0",
+        "NAME": "Charlie Davis",
+        "COUNTRY": "USA",
+        "HEIGHT": "73",
+        "WEIGHT": "160",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "17",
+        "ROW": "993",
+        "ACTIVE": "0",
+        "NAME": "Clyde Drexler",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "222",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "404",
+        "ROW": "1002",
+        "ACTIVE": "0",
+        "NAME": "Kevin Duckworth",
+        "COUNTRY": "USA",
+        "HEIGHT": "84",
+        "WEIGHT": "300",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "201",
+        "ROW": "1004",
+        "ACTIVE": "0",
+        "NAME": "Chris Dudley",
+        "COUNTRY": "USA",
+        "HEIGHT": "83",
+        "WEIGHT": "260",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76674",
+        "ROW": "1093",
+        "ACTIVE": "0",
+        "NAME": "Claude English",
+        "COUNTRY": "USA",
+        "HEIGHT": "76",
+        "WEIGHT": "185",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "203105",
+        "ROW": "1122",
+        "ACTIVE": "0",
+        "NAME": "Festus Ezeli",
+        "COUNTRY": "Nigeria",
+        "HEIGHT": "83",
+        "WEIGHT": "265",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "2724",
+        "ROW": "1149",
+        "ACTIVE": "0",
+        "NAME": "Desmond Ferguson",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "210",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76709",
+        "ROW": "1156",
+        "ACTIVE": "0",
+        "NAME": "Rolando Ferreira",
+        "COUNTRY": "USA",
+        "HEIGHT": "85",
+        "WEIGHT": "240",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "200777",
+        "ROW": "1225",
+        "ACTIVE": "0",
+        "NAME": "Joel Freeland",
+        "COUNTRY": "United Kingdom",
+        "HEIGHT": "82",
+        "WEIGHT": "225",
+        "POSITION": "Center-Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76761",
+        "ROW": "1233",
+        "ACTIVE": "0",
+        "NAME": "Bernie Fryer",
+        "COUNTRY": "USA",
+        "HEIGHT": "75",
+        "WEIGHT": "185",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "1628385",
+        "ROW": "1316",
+        "ACTIVE": "1",
+        "NAME": "Harry Giles III",
+        "COUNTRY": "USA",
+        "HEIGHT": "83",
+        "WEIGHT": "240",
+        "POSITION": "Forward-Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76817",
+        "ROW": "1322",
+        "ACTIVE": "0",
+        "NAME": "Walt Gilmore",
+        "COUNTRY": "USA",
+        "HEIGHT": "78",
+        "WEIGHT": "225",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76883",
+        "ROW": "1426",
+        "ACTIVE": "0",
+        "NAME": "Gary Gregor",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "225",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76895",
+        "ROW": "1441",
+        "ACTIVE": "0",
+        "NAME": "Bob Gross",
+        "COUNTRY": "USA",
+        "HEIGHT": "78",
+        "WEIGHT": "200",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "2775",
+        "ROW": "1458",
+        "ACTIVE": "0",
+        "NAME": "Ha Ha",
+        "COUNTRY": "South Korea",
+        "HEIGHT": "87",
+        "WEIGHT": "305",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76922",
+        "ROW": "1474",
+        "ACTIVE": "0",
+        "NAME": "Shaler Halimon",
+        "COUNTRY": "USA",
+        "HEIGHT": "77",
+        "WEIGHT": "199",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "76954",
+        "ROW": "1516",
+        "ACTIVE": "0",
+        "NAME": "Mike Harper",
+        "COUNTRY": "USA",
+        "HEIGHT": "82",
+        "WEIGHT": "195",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "1626209",
+        "ROW": "1633",
+        "ACTIVE": "1",
+        "NAME": "Mario Hezonja",
+        "COUNTRY": "Croatia",
+        "HEIGHT": "80",
+        "WEIGHT": "220",
+        "POSITION": "Forward-Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": "2020-21"
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": "1977011"
+            }
+        ]
+    },
+    {
+        "_id": "1629658",
+        "ROW": "1665",
+        "ACTIVE": "1",
+        "NAME": "Jaylen Hoard",
+        "COUNTRY": "France",
+        "HEIGHT": "80",
+        "WEIGHT": "216",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77043",
+        "ROW": "1684",
+        "ACTIVE": "0",
+        "NAME": "Lionel Hollins",
+        "COUNTRY": "USA",
+        "HEIGHT": "75",
+        "WEIGHT": "185",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77047",
+        "ROW": "1690",
+        "ACTIVE": "0",
+        "NAME": "Michael Holton",
+        "COUNTRY": "USA",
+        "HEIGHT": "76",
+        "WEIGHT": "185",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "203918",
+        "ROW": "1696",
+        "ACTIVE": "1",
+        "NAME": "Rodney Hood",
+        "COUNTRY": "USA",
+        "HEIGHT": "80",
+        "WEIGHT": "208",
+        "POSITION": "Guard-Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": "2020-21"
+            },
+            {
+                "PLAYER_SEASON": "2021-22"
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": "10047450"
+            },
+            {
+                "PLAYER_SALARY": "10851246"
+            }
+        ]
+    },
+    {
+        "_id": "77096",
+        "ROW": "1781",
+        "ACTIVE": "0",
+        "NAME": "Byron Irvin",
+        "COUNTRY": "USA",
+        "HEIGHT": "77",
+        "WEIGHT": "190",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77126",
+        "ROW": "1840",
+        "ACTIVE": "0",
+        "NAME": "Abdul Jeelani",
+        "COUNTRY": "USA",
+        "HEIGHT": "80",
+        "WEIGHT": "210",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "202356",
+        "ROW": "1869",
+        "ACTIVE": "0",
+        "NAME": "Armon Johnson",
+        "COUNTRY": "USA",
+        "HEIGHT": "75",
+        "WEIGHT": "195",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77138",
+        "ROW": "1885",
+        "ACTIVE": "0",
+        "NAME": "Dave Johnson",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "210",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77154",
+        "ROW": "1908",
+        "ACTIVE": "0",
+        "NAME": "Ken Johnson",
+        "COUNTRY": "USA",
+        "HEIGHT": "80",
+        "WEIGHT": "240",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77170",
+        "ROW": "1930",
+        "ACTIVE": "0",
+        "NAME": "Nate Johnston",
+        "COUNTRY": "USA",
+        "HEIGHT": "80",
+        "WEIGHT": "210",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77194",
+        "ROW": "1972",
+        "ACTIVE": "0",
+        "NAME": "Robin Jones",
+        "COUNTRY": "USA",
+        "HEIGHT": "81",
+        "WEIGHT": "225",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77197",
+        "ROW": "1975",
+        "ACTIVE": "0",
+        "NAME": "Steve Jones",
+        "COUNTRY": "USA",
+        "HEIGHT": "77",
+        "WEIGHT": "205",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "1627884",
+        "ROW": "1983",
+        "ACTIVE": "1",
+        "NAME": "Derrick Jones Jr.",
+        "COUNTRY": "USA",
+        "HEIGHT": "77",
+        "WEIGHT": "210",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "202683",
+        "ROW": "2005",
+        "ACTIVE": "1",
+        "NAME": "Enes Kanter",
+        "COUNTRY": "Turkey",
+        "HEIGHT": "82",
+        "WEIGHT": "250",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": "2020-21"
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": "5005350"
+            }
+        ]
+    },
+    {
+        "_id": "77288",
+        "ROW": "2084",
+        "ACTIVE": "0",
+        "NAME": "Ron Knight",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "215",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77332",
+        "ROW": "2150",
+        "ACTIVE": "0",
+        "NAME": "Jeff Lamp",
+        "COUNTRY": "USA",
+        "HEIGHT": "78",
+        "WEIGHT": "195",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77360",
+        "ROW": "2200",
+        "ACTIVE": "0",
+        "NAME": "Greg Lee",
+        "COUNTRY": "USA",
+        "HEIGHT": "75",
+        "WEIGHT": "190",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "203081",
+        "ROW": "2238",
+        "ACTIVE": "1",
+        "NAME": "Damian Lillard",
+        "COUNTRY": "USA",
+        "HEIGHT": "74",
+        "WEIGHT": "195",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": "2022-23"
+            },
+            {
+                "PLAYER_SEASON": "2020-21"
+            },
+            {
+                "PLAYER_SEASON": "2021-22"
+            },
+            {
+                "PLAYER_SEASON": "2023-24"
+            },
+            {
+                "PLAYER_SEASON": "2024-25"
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": "42492492"
+            },
+            {
+                "PLAYER_SALARY": "31626953"
+            },
+            {
+                "PLAYER_SALARY": "39344900"
+            },
+            {
+                "PLAYER_SALARY": "45640084"
+            },
+            {
+                "PLAYER_SALARY": "48787676"
+            }
+        ]
+    },
+    {
+        "_id": "1629642",
+        "ROW": "2244",
+        "ACTIVE": "1",
+        "NAME": "Nassir Little",
+        "COUNTRY": "USA",
+        "HEIGHT": "77",
+        "WEIGHT": "220",
+        "POSITION": "Forward-Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": "2020-21"
+            },
+            {
+                "PLAYER_SEASON": "2021-22"
+            },
+            {
+                "PLAYER_SEASON": "2022-23"
+            },
+            {
+                "PLAYER_SEASON": "2023-24"
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": "2210640"
+            },
+            {
+                "PLAYER_SALARY": "2316240"
+            },
+            {
+                "PLAYER_SALARY": "4171548"
+            },
+            {
+                "PLAYER_SALARY": "6128004"
+            }
+        ]
+    },
+    {
+        "_id": "77420",
+        "ROW": "2291",
+        "ACTIVE": "0",
+        "NAME": "Maurice Lucas",
+        "COUNTRY": "USA",
+        "HEIGHT": "81",
+        "WEIGHT": "215",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77424",
+        "ROW": "2294",
+        "ACTIVE": "0",
+        "NAME": "Phil Lumpkin",
+        "COUNTRY": "USA",
+        "HEIGHT": "72",
+        "WEIGHT": "165",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77466",
+        "ROW": "2353",
+        "ACTIVE": "0",
+        "NAME": "Jim Marsh",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "215",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77469",
+        "ROW": "2362",
+        "ACTIVE": "0",
+        "NAME": "Brian Martin",
+        "COUNTRY": "USA",
+        "HEIGHT": "81",
+        "WEIGHT": "212",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77472",
+        "ROW": "2370",
+        "ACTIVE": "0",
+        "NAME": "Fernando Martin",
+        "COUNTRY": "Spain",
+        "HEIGHT": "81",
+        "WEIGHT": "220",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77475",
+        "ROW": "2378",
+        "ACTIVE": "0",
+        "NAME": "Larue Martin",
+        "COUNTRY": "USA",
+        "HEIGHT": "83",
+        "WEIGHT": "208",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "203468",
+        "ROW": "2427",
+        "ACTIVE": "1",
+        "NAME": "CJ McCollum",
+        "COUNTRY": "USA",
+        "HEIGHT": "75",
+        "WEIGHT": "190",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": "2022-23"
+            },
+            {
+                "PLAYER_SEASON": "2023-24"
+            },
+            {
+                "PLAYER_SEASON": "2020-21"
+            },
+            {
+                "PLAYER_SEASON": "2021-22"
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": "33333333"
+            },
+            {
+                "PLAYER_SALARY": "35802469"
+            },
+            {
+                "PLAYER_SALARY": "29354152"
+            },
+            {
+                "PLAYER_SALARY": "30864198"
+            }
+        ]
+    },
+    {
+        "_id": "77543",
+        "ROW": "2470",
+        "ACTIVE": "0",
+        "NAME": "Stan McKenzie",
+        "COUNTRY": "USA",
+        "HEIGHT": "77",
+        "WEIGHT": "195",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77673",
+        "ROW": "2658",
+        "ACTIVE": "0",
+        "NAME": "Ronnie Murphy",
+        "COUNTRY": "USA",
+        "HEIGHT": "77",
+        "WEIGHT": "225",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77691",
+        "ROW": "2695",
+        "ACTIVE": "0",
+        "NAME": "Calvin Natt",
+        "COUNTRY": "USA",
+        "HEIGHT": "78",
+        "WEIGHT": "220",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77696",
+        "ROW": "2701",
+        "ACTIVE": "0",
+        "NAME": "Lloyd Neal",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "225",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77731",
+        "ROW": "2746",
+        "ACTIVE": "0",
+        "NAME": "Audie Norris",
+        "COUNTRY": "USA",
+        "HEIGHT": "81",
+        "WEIGHT": "230",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "203994",
+        "ROW": "2761",
+        "ACTIVE": "1",
+        "NAME": "Jusuf Nurkic",
+        "COUNTRY": "Bosnia and Herzegovina",
+        "HEIGHT": "83",
+        "WEIGHT": "290",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": "2021-22"
+            },
+            {
+                "PLAYER_SEASON": "2020-21"
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": "12000000"
+            },
+            {
+                "PLAYER_SALARY": "12888889"
+            }
+        ]
+    },
+    {
+        "_id": "201141",
+        "ROW": "2783",
+        "ACTIVE": "0",
+        "NAME": "Greg Oden",
+        "COUNTRY": "USA",
+        "HEIGHT": "84",
+        "WEIGHT": "273",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "2566",
+        "ROW": "2829",
+        "ACTIVE": "0",
+        "NAME": "Travis Outlaw",
+        "COUNTRY": "USA",
+        "HEIGHT": "81",
+        "WEIGHT": "207",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77786",
+        "ROW": "2840",
+        "ACTIVE": "0",
+        "NAME": "Tom Owens",
+        "COUNTRY": "USA",
+        "HEIGHT": "82",
+        "WEIGHT": "215",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77819",
+        "ROW": "2882",
+        "ACTIVE": "0",
+        "NAME": "Jim Paxson",
+        "COUNTRY": "USA",
+        "HEIGHT": "78",
+        "WEIGHT": "200",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77844",
+        "ROW": "2911",
+        "ACTIVE": "0",
+        "NAME": "Geoff Petrie",
+        "COUNTRY": "USA",
+        "HEIGHT": "76",
+        "WEIGHT": "190",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "77863",
+        "ROW": "2934",
+        "ACTIVE": "0",
+        "NAME": "Tom Piotrowski",
+        "COUNTRY": "USA",
+        "HEIGHT": "85",
+        "WEIGHT": "240",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "345",
+        "ROW": "2965",
+        "ACTIVE": "0",
+        "NAME": "Terry Porter",
+        "COUNTRY": "USA",
+        "HEIGHT": "75",
+        "WEIGHT": "205",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "2038",
+        "ROW": "3003",
+        "ACTIVE": "0",
+        "NAME": "Joel Przybilla",
+        "COUNTRY": "USA",
+        "HEIGHT": "85",
+        "WEIGHT": "245",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "361",
+        "ROW": "3120",
+        "ACTIVE": "0",
+        "NAME": "Clifford Robinson",
+        "COUNTRY": "USA",
+        "HEIGHT": "82",
+        "WEIGHT": "245",
+        "POSITION": "Forward-Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "203080",
+        "ROW": "3135",
+        "ACTIVE": "0",
+        "NAME": "Thomas Robinson",
+        "COUNTRY": "USA",
+        "HEIGHT": "82",
+        "WEIGHT": "237",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "200771",
+        "ROW": "3147",
+        "ACTIVE": "0",
+        "NAME": "Sergio Rodriguez",
+        "COUNTRY": "Spain",
+        "HEIGHT": "75",
+        "WEIGHT": "176",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78027",
+        "ROW": "3176",
+        "ACTIVE": "0",
+        "NAME": "Ron Rowan",
+        "COUNTRY": "USA",
+        "HEIGHT": "77",
+        "WEIGHT": "200",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "200750",
+        "ROW": "3181",
+        "ACTIVE": "0",
+        "NAME": "Brandon Roy",
+        "COUNTRY": "USA",
+        "HEIGHT": "78",
+        "WEIGHT": "211",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "717",
+        "ROW": "3210",
+        "ACTIVE": "0",
+        "NAME": "Arvydas Sabonis",
+        "COUNTRY": "Lithuania",
+        "HEIGHT": "87",
+        "WEIGHT": "292",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78080",
+        "ROW": "3257",
+        "ACTIVE": "0",
+        "NAME": "Tom Scheffler",
+        "COUNTRY": "USA",
+        "HEIGHT": "83",
+        "WEIGHT": "240",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78084",
+        "ROW": "3262",
+        "ACTIVE": "0",
+        "NAME": "Dale Schlueter",
+        "COUNTRY": "USA",
+        "HEIGHT": "82",
+        "WEIGHT": "225",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78145",
+        "ROW": "3334",
+        "ACTIVE": "0",
+        "NAME": "Mark Sibley",
+        "COUNTRY": "USA",
+        "HEIGHT": "74",
+        "WEIGHT": "175",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "1629014",
+        "ROW": "3361",
+        "ACTIVE": "1",
+        "NAME": "Anfernee Simons",
+        "COUNTRY": "USA",
+        "HEIGHT": "75",
+        "WEIGHT": "181",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": "2021-22"
+            },
+            {
+                "PLAYER_SEASON": "2020-21"
+            },
+            {
+                "PLAYER_SEASON": "2022-23"
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": "3938818"
+            },
+            {
+                "PLAYER_SALARY": "2252040"
+            },
+            {
+                "PLAYER_SALARY": "5758552"
+            }
+        ]
+    },
+    {
+        "_id": "78207",
+        "ROW": "3398",
+        "ACTIVE": "0",
+        "NAME": "Bill Smith",
+        "COUNTRY": "USA",
+        "HEIGHT": "84",
+        "WEIGHT": "220",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "202701",
+        "ROW": "3431",
+        "ACTIVE": "0",
+        "NAME": "Nolan Smith",
+        "COUNTRY": "USA",
+        "HEIGHT": "74",
+        "WEIGHT": "185",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78201",
+        "ROW": "3435",
+        "ACTIVE": "0",
+        "NAME": "Reggie Smith",
+        "COUNTRY": "USA",
+        "HEIGHT": "82",
+        "WEIGHT": "240",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78245",
+        "ROW": "3483",
+        "ACTIVE": "0",
+        "NAME": "Larry Steele",
+        "COUNTRY": "USA",
+        "HEIGHT": "77",
+        "WEIGHT": "180",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "757",
+        "ROW": "3511",
+        "ACTIVE": "0",
+        "NAME": "Damon Stoudamire",
+        "COUNTRY": "USA",
+        "HEIGHT": "70",
+        "WEIGHT": "171",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78269",
+        "ROW": "3517",
+        "ACTIVE": "0",
+        "NAME": "Bill Stricker",
+        "COUNTRY": "USA",
+        "HEIGHT": "80",
+        "WEIGHT": "210",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "1628403",
+        "ROW": "3541",
+        "ACTIVE": "1",
+        "NAME": "Caleb Swanigan",
+        "COUNTRY": "USA",
+        "HEIGHT": "81",
+        "WEIGHT": "260",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78329",
+        "ROW": "3621",
+        "ACTIVE": "0",
+        "NAME": "Kevin Thompson",
+        "COUNTRY": "USA",
+        "HEIGHT": "83",
+        "WEIGHT": "260",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78331",
+        "ROW": "3626",
+        "ACTIVE": "0",
+        "NAME": "Mychal Thompson",
+        "COUNTRY": "USA",
+        "HEIGHT": "82",
+        "WEIGHT": "226",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78364",
+        "ROW": "3659",
+        "ACTIVE": "0",
+        "NAME": "Linton Townes",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "190",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "1629018",
+        "ROW": "3666",
+        "ACTIVE": "1",
+        "NAME": "Gary Trent Jr.",
+        "COUNTRY": "USA",
+        "HEIGHT": "77",
+        "WEIGHT": "209",
+        "POSITION": "Guard-Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78387",
+        "ROW": "3697",
+        "ACTIVE": "0",
+        "NAME": "Dave Twardzik",
+        "COUNTRY": "USA",
+        "HEIGHT": "73",
+        "WEIGHT": "175",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78395",
+        "ROW": "3712",
+        "ACTIVE": "0",
+        "NAME": "Darnell Valentine",
+        "COUNTRY": "USA",
+        "HEIGHT": "74",
+        "WEIGHT": "183",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78413",
+        "ROW": "3740",
+        "ACTIVE": "0",
+        "NAME": "Bob Verga",
+        "COUNTRY": "USA",
+        "HEIGHT": "73",
+        "WEIGHT": "190",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78414",
+        "ROW": "3741",
+        "ACTIVE": "0",
+        "NAME": "Peter Verhoeven",
+        "COUNTRY": "USA",
+        "HEIGHT": "81",
+        "WEIGHT": "215",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78450",
+        "ROW": "3796",
+        "ACTIVE": "0",
+        "NAME": "Bill Walton",
+        "COUNTRY": "USA",
+        "HEIGHT": "83",
+        "WEIGHT": "210",
+        "POSITION": "Center",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "101110",
+        "ROW": "3844",
+        "ACTIVE": "0",
+        "NAME": "Martell Webster",
+        "COUNTRY": "USA",
+        "HEIGHT": "79",
+        "WEIGHT": "230",
+        "POSITION": "Forward-Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "1719",
+        "ROW": "3850",
+        "ACTIVE": "0",
+        "NAME": "Bonzi Wells",
+        "COUNTRY": "USA",
+        "HEIGHT": "77",
+        "WEIGHT": "210",
+        "POSITION": "Guard-Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78520",
+        "ROW": "3904",
+        "ACTIVE": "0",
+        "NAME": "Sidney Wicks",
+        "COUNTRY": "USA",
+        "HEIGHT": "81",
+        "WEIGHT": "225",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78582",
+        "ROW": "4002",
+        "ACTIVE": "0",
+        "NAME": "Nikita Wilson",
+        "COUNTRY": "USA",
+        "HEIGHT": "80",
+        "WEIGHT": "200",
+        "POSITION": "Forward",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "2417",
+        "ROW": "4039",
+        "ACTIVE": "0",
+        "NAME": "Qyntel Woods",
+        "COUNTRY": "USA",
+        "HEIGHT": "80",
+        "WEIGHT": "220",
+        "POSITION": "Forward-Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    },
+    {
+        "_id": "78631",
+        "ROW": "4071",
+        "ACTIVE": "0",
+        "NAME": "Charlie Yelverton",
+        "COUNTRY": "USA",
+        "HEIGHT": "74",
+        "WEIGHT": "190",
+        "POSITION": "Guard",
+        "TEAM_ID": "1610612757",
+        "TEAM_CITY": "Portland",
+        "TEAM_STATE": "Oregon",
+        "PLAYER_SALARY_SEASON": [
+            {
+                "PLAYER_SEASON": ""
+            }
+        ],
+        "PLAYER_SALARY_AMOUNT": [
+            {
+                "PLAYER_SALARY": ""
+            }
+        ]
+    }
+]
